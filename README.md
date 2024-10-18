@@ -1,8 +1,6 @@
 ## Hi there 👋, I'm Er. Drishya Chhetri and I have been working in the software industry for about past 6 years.
 
-# 2049
-## Total Contributions 
-
+# Total Contributions : 2049
 ## Languages 
 JavaScript, CSS, SQL, NoSQL, Python, Dart, Golang
 
