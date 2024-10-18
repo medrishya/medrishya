@@ -5,7 +5,7 @@
 JavaScript, CSS, SQL, NoSQL, Python, Dart, Golang
 
 ## Tools & Technologies 
-ReactJs, VueJs, NodeJs, PostgreSQL, MySQL, MongoDB, Django, Flutter, Echo
+ReactJs, VueJs, NodeJs, PostgreSQL, MySQL, MongoDB, Django, Flutter, Echo, AWS
 
 ## Expertise
 1. API Design
@@ -13,3 +13,4 @@ ReactJs, VueJs, NodeJs, PostgreSQL, MySQL, MongoDB, Django, Flutter, Echo
 3. Database Design
 4. User Interface design and development.
 5. Solving user reported issues and deducting quality problems.
+6. Server deployment and resource management via AWS
